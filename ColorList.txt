@@ -1,0 +1,20 @@
+Format: Tabs between each section and before each color.
+[Owning Icon]
+	#XXXXXX	"Color Description"	Location
+
+[Mighty Number 9]
+	#C0E1DA	"Light Blue"	Outer Circle
+	#4B4B4B	"Medium Grey"	Middle Circle
+	#2262AA	"Medium Blue"	Inner Circle
+	#000000	"Black"	Triangle Detail
+
+[Call]
+	#FFE2F8	"Off-white Pink"	Outer Circle, Inner Detail
+	#3C3849	"Medium Grey"	Middle Circle
+	#E21C5A	"Medium Pinkish"	Inner Circle
+
+[Mighty Number 38129]
+	#AFFFE4	"Light SeaGreen"	OuterCircle
+	#4E575A	"Medium Grey"	Middle Circle
+	#00C986	"SeaGreen"	Inner Circle
+	#000000	"Black"	Detail
