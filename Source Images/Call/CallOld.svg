@@ -14,7 +14,7 @@
    id="svg3013"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Call.svg"
+   sodipodi:docname="CallOld.svg"
    inkscape:export-filename="E:\libraries and data\Pictures\MN9Icons\Call\Call.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
@@ -27,7 +27,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7460938"
+     inkscape:zoom="1.0917969"
      inkscape:cx="256"
      inkscape:cy="256"
      inkscape:document-units="px"
@@ -39,24 +39,7 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      showguides="true"
-     inkscape:guide-bbox="true">
-    <sodipodi:guide
-       orientation="1,0"
-       position="256,256"
-       id="guide4867" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="256,256"
-       id="guide4869" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="105,256"
-       id="guide4875" />
-    <sodipodi:guide
-       orientation="1,0"
-       position="407,256"
-       id="guide4877" />
-  </sodipodi:namedview>
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata3018">
     <rdf:RDF>
@@ -65,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,7 +65,7 @@
        sodipodi:cy="49.459751"
        sodipodi:rx="48.543827"
        sodipodi:ry="34.805008"
-       d="m 105.33095,49.459751 a 48.543827,34.805008 0 1 1 -97.0876562,0 48.543827,34.805008 0 1 1 97.0876562,0 z"
+       d="m 105.33095,49.459751 c 0,19.222275 -21.733814,34.805008 -48.543829,34.805008 -26.810016,0 -48.5438272,-15.582733 -48.5438272,-34.805008 0,-19.222275 21.7338112,-34.805008 48.5438272,-34.805008 26.810015,0 48.543829,15.582733 48.543829,34.805008 z"
        transform="matrix(5.273585,0,0,7.3552634,-43.471711,432.57268)" />
     <path
        sodipodi:type="arc"
@@ -92,7 +75,7 @@
        sodipodi:cy="76.021469"
        sodipodi:rx="31.141323"
        sodipodi:ry="38.468693"
-       d="m -26.561718,76.021469 a 31.141323,38.468693 0 1 1 -62.282646,0 31.141323,38.468693 0 1 1 62.282646,0 z"
+       d="m -26.561718,76.021469 c 0,21.245672 -13.942445,38.468691 -31.141323,38.468691 -17.198878,0 -31.141323,-17.223019 -31.141323,-38.468691 0,-21.245672 13.942445,-38.468693 31.141323,-38.468693 17.198878,0 31.141323,17.223021 31.141323,38.468693 z"
        transform="matrix(6.7755631,0,0,5.4849797,646.97059,379.38597)" />
     <path
        sodipodi:type="arc"
@@ -102,7 +85,7 @@
        sodipodi:cy="114.0322"
        sodipodi:rx="69.152054"
        sodipodi:ry="58.161003"
-       d="m -105.33095,114.0322 a 69.152054,58.161003 0 1 1 -138.30411,0 69.152054,58.161003 0 1 1 138.30411,0 z"
+       d="m -105.33095,114.0322 c 0,32.12144 -30.96043,58.16101 -69.15205,58.16101 -38.19163,0 -69.15206,-26.03957 -69.15206,-58.16101 0,-32.121431 30.96043,-58.160999 69.15206,-58.160999 38.19162,0 69.15205,26.039568 69.15205,58.160999 z"
        transform="matrix(2.1835939,0,0,2.5962413,637.00002,500.30706)" />
     <path
        style="fill:#ffe2f8;stroke:none;stroke-width:1.34105837000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
