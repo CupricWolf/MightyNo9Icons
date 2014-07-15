@@ -14,11 +14,17 @@ Format: Tabs between each section and before each color.
 	#E21C5A	"Medium Pinkish"	Inner Circle
 	
 [Mighty No 1]
-	#FFFFFF	"White"	Outer Circle
+	#FFCCAA	"Light Orange"	Outer Circle
 	#4B4B4B	"Grey"	Middle Circle
-	#FF0000	"Red"	Inner Circle
+	#FF6600	"Orange"	Inner Circle
 	#000000	"Black"	Detail
 
+[Mighty No 2]
+	#CEFBFE	"Super Light Blue"	Outer Circle
+	#4B4B4B	"Grey"	Middle Circle
+	#04E4F4	"Light Blue"	Inner Circle
+	#000000	"Black"	Detail
+	
 [Mighty Number 38129]
 	#AFFFE4	"Light SeaGreen"	OuterCircle
 	#4E575A	"Medium Grey"	Middle Circle
