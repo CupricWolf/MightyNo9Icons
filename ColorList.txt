@@ -2,7 +2,7 @@ Format: Tabs between each section and before each color.
 [Owning Icon]
 	#XXXXXX	"Color Description"	Location
 
-[Mighty Number 9]
+[Beck AKA Mighty No 9]
 	#C0E1DA	"Light Blue"	Outer Circle
 	#4B4B4B	"Medium Grey"	Middle Circle
 	#2262AA	"Medium Blue"	Inner Circle
@@ -24,8 +24,20 @@ Format: Tabs between each section and before each color.
 	#4B4B4B	"Grey"	Middle Circle
 	#04E4F4	"Light Blue"	Inner Circle
 	#000000	"Black"	Detail
-	
-[Mighty Number 38129]
+
+[Mighty No 3]
+	#FFEEAA	"Light Yellow"	Outer Circle
+	#4B4B4B	"Grey"	Middle Circle
+	#FFFF00	"Yellow"	Inner Circle
+	#000000	"Black"	Detail
+
+[Mighty No 4]
+	#XXXXXX	"Light COLOR"	Outer Circle
+	#4B4B4B	"Grey"	Middle Circle
+	#XXXXXX	"COLOR"	Inner Circle
+	#000000	"Black"	Detail
+
+[Mighty No 38129]
 	#AFFFE4	"Light SeaGreen"	OuterCircle
 	#4E575A	"Medium Grey"	Middle Circle
 	#00C986	"SeaGreen"	Inner Circle

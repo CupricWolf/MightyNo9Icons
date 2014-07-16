@@ -18,6 +18,8 @@
    inkscape:export-filename="E:\libraries and data\Pictures\MN9Icons\Call\CallNew.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <title
+     id="title4008">Call New Style Icon</title>
   <defs
      id="defs3015" />
   <sodipodi:namedview
@@ -48,8 +50,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Call New Style Icon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+        <dc:date>7/12/14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Marcello Nicoletti (CupricWolf)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Comcept Inc.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Icon based on the emblem for Call</dc:description>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -60,7 +89,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ffe2f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3021"
+       id="OuterCircle"
        sodipodi:cx="56.787121"
        sodipodi:cy="49.459751"
        sodipodi:rx="48.543827"
@@ -70,7 +99,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#3c3849;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4327"
+       id="MiddleCircle"
        sodipodi:cx="-57.703041"
        sodipodi:cy="76.021469"
        sodipodi:rx="31.141323"
@@ -80,7 +109,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#e21c5a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4329"
+       id="InnerCircle"
        sodipodi:cx="-174.483"
        sodipodi:cy="114.0322"
        sodipodi:rx="69.152054"
@@ -91,6 +120,6 @@
        style="fill:#ffe2f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 255 137 C 188.72583 137 135 190.72583 135 257 C 135 323.27417 188.72583 377 255 377 C 309.46219 377 355.43091 340.71154 370.09375 291 L 316.21875 291 C 304.26561 312.47843 281.32437 327 255 327 C 216.34007 327 185 295.65993 185 257 C 185 218.34007 216.34007 187 255 187 C 280.50052 187 302.82504 200.62221 315.0625 221 L 369.5 221 C 354.2103 172.31226 308.73345 137 255 137 z "
        transform="translate(0,540.36218)"
-       id="path3011" />
+       id="Detail" />
   </g>
 </svg>

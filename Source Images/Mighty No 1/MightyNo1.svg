@@ -14,10 +14,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="MightyNo1-Alt.svg"
+   sodipodi:docname="MightyNo1.svg"
    inkscape:export-filename="C:\Users\Marco\Documents\GitHub\MightyNo9Icons\Source Images\Mighty No 1\MightyNo1-Alt.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <title
+     id="title4006">Mighty No. 1 Icon</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0917969"
-     inkscape:cx="113.11628"
+     inkscape:cx="256"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -48,8 +50,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Mighty No. 1 Icon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+        <dc:date>7/15/14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Marcello Nicoletti (CupricWolf)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Comcept Inc.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Icon based on the emblem for Mighty No. 1</dc:description>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -60,17 +89,18 @@
     <path
        sodipodi:type="arc"
        style="fill:#ffccaa;stroke:none;fill-opacity:1;stroke-opacity:1"
-       id="path2985"
+       id="OuterCircle"
        sodipodi:cx="153.87477"
        sodipodi:cy="155.24866"
        sodipodi:rx="142.88373"
        sodipodi:ry="144.2576"
        d="m 296.7585,155.24866 c 0,79.67127 -63.97122,144.2576 -142.88373,144.2576 -78.912503,0 -142.883727,-64.58633 -142.883727,-144.2576 0,-79.671275 63.971224,-144.257602 142.883727,-144.257602 78.91251,0 142.88373,64.586327 142.88373,144.257602 z"
-       transform="matrix(1.7916666,0,0,1.7746032,-19.692284,520.85741)" />
+       transform="matrix(1.7916666,0,0,1.7746032,-19.692284,520.85741)"
+       inkscape:label="#OuterCircle" />
     <path
        sodipodi:type="arc"
        style="fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3783"
+       id="MiddleCircle"
        sodipodi:cx="-125.02325"
        sodipodi:cy="139.22003"
        sodipodi:rx="70.983902"
@@ -80,7 +110,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3785"
+       id="InnerCircle"
        sodipodi:cx="-163.49194"
        sodipodi:cy="119.06977"
        sodipodi:rx="57.245079"
@@ -90,7 +120,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3867"
+       id="DetailCircle1"
        sodipodi:cx="-24.271914"
        sodipodi:cy="85.180679"
        sodipodi:rx="18.776386"
@@ -104,13 +134,14 @@
        sodipodi:rx="18.776386"
        sodipodi:cy="85.180679"
        sodipodi:cx="-24.271914"
-       id="path3897"
+       id="DetailCircle2"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
+       sodipodi:type="arc"
+       inkscape:label="#DetailCircle2" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="M 358 165.9375 C 333.07968 194.17745 296.62422 212 256 212 C 215.41574 212 178.98099 194.22292 154.0625 166.03125 C 148.2188 172.67806 142.93842 180.01055 138.34375 187.96875 C 133.69885 196.01397 129.97139 204.30203 127.125 212.78125 C 129.90127 213.3432 132.70244 213.86089 135.4375 214.59375 C 139.63994 215.7198 143.79552 217.07109 147.875 218.59375 C 151.95447 220.1164 155.98085 221.80781 159.90625 223.71875 C 163.83164 225.62969 167.66607 227.74036 171.40625 230.03125 C 175.14643 232.32214 178.75742 234.80627 182.28125 237.46875 C 185.80509 240.13124 189.22363 242.97425 192.5 246 C 195.77638 249.02575 198.93972 252.21308 201.9375 255.59375 C 204.93529 258.97443 207.7807 262.52275 210.46875 266.25 C 213.15681 269.97725 215.68404 273.90327 218.03125 277.96875 C 220.37846 282.03424 222.49114 286.1522 224.375 290.34375 C 226.25887 294.5353 227.9149 298.77601 229.34375 303.0625 C 230.77261 307.34899 231.95532 311.68096 232.9375 316.03125 C 233.91969 320.38155 234.67489 324.77328 235.21875 329.15625 C 235.76262 333.53923 236.10487 337.89671 236.21875 342.28125 C 236.33263 346.66579 236.24522 351.05129 235.9375 355.40625 C 235.62972 359.76121 235.09607 364.11199 234.375 368.40625 C 233.65392 372.70051 232.71979 376.95382 231.59375 381.15625 C 230.87613 383.83447 229.94183 386.43194 229.0625 389.0625 C 247.12104 392.68958 265.51494 392.66335 283.1875 389.0625 C 282.30817 386.43194 281.37387 383.83447 280.65625 381.15625 C 279.53022 376.95381 278.59608 372.70052 277.875 368.40625 C 277.15393 364.112 276.62028 359.76121 276.3125 355.40625 C 276.00473 351.0513 275.91737 346.66579 276.03125 342.28125 C 276.14512 337.89671 276.48739 333.53923 277.03125 329.15625 C 277.57512 324.77327 278.33031 320.38156 279.3125 316.03125 C 280.29468 311.68096 281.4774 307.349 282.90625 303.0625 C 284.3351 298.77602 285.99114 294.53529 287.875 290.34375 C 289.75886 286.1522 291.87154 282.00299 294.21875 277.9375 C 296.56596 273.87201 299.09319 270.00849 301.78125 266.28125 C 304.4693 262.554 307.34597 258.97442 310.34375 255.59375 C 313.34153 252.21308 316.47363 249.02575 319.75 246 C 323.02638 242.97426 326.44491 240.13124 329.96875 237.46875 C 333.49259 234.80626 337.10357 232.32213 340.84375 230.03125 C 344.58394 227.74035 348.44959 225.62965 352.375 223.71875 C 356.30039 221.8078 360.29553 220.08516 364.375 218.5625 C 368.45448 217.03984 372.61006 215.7198 376.8125 214.59375 C 379.49072 213.87612 382.2197 213.3975 384.9375 212.84375 C 379.22561 195.75626 370.15183 179.75143 358 165.9375 z "
        transform="translate(0,540.36218)"
-       id="path4373" />
+       id="Detail" />
   </g>
 </svg>

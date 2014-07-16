@@ -14,10 +14,12 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="MightyNo1.svg"
+   sodipodi:docname="MightyNo1-Old.svg"
    inkscape:export-filename="C:\Users\Marco\Documents\GitHub\MightyNo9Icons\Source Images\Mighty No 1\MightyNo1.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <title
+     id="title4004">Mighty No. 1 Icon - Old</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -48,8 +50,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title>Mighty No. 1 Icon - Old</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+        <dc:date>7/14/14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Marcello Nicoletti (CupricWolf)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Comcept Inc.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Icon based on the emblem for Mighty No. 1</dc:description>
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -60,7 +89,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ffc3c3;stroke:none;fill-opacity:1;stroke-opacity:1"
-       id="path2985"
+       id="OuterCircle"
        sodipodi:cx="153.87477"
        sodipodi:cy="155.24866"
        sodipodi:rx="142.88373"
@@ -70,7 +99,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3783"
+       id="MiddleCircle"
        sodipodi:cx="-125.02325"
        sodipodi:cy="139.22003"
        sodipodi:rx="70.983902"
@@ -80,7 +109,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3785"
+       id="InnerCircle"
        sodipodi:cx="-163.49194"
        sodipodi:cy="119.06977"
        sodipodi:rx="57.245079"
@@ -90,7 +119,7 @@
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3867"
+       id="DetailCircle1"
        sodipodi:cx="-24.271914"
        sodipodi:cy="85.180679"
        sodipodi:rx="18.776386"
@@ -104,13 +133,13 @@
        sodipodi:rx="18.776386"
        sodipodi:cy="85.180679"
        sodipodi:cx="-24.271914"
-       id="path3897"
+       id="DetailCircle2"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        sodipodi:type="arc" />
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path4445"
+       id="Detail"
        sodipodi:sides="3"
        sodipodi:cx="256"
        sodipodi:cy="256"
