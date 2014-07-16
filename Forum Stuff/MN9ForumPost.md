@@ -75,6 +75,16 @@ I'm sorry for the ads.
 
 [Linux Version](http://www.mediafire.com/download/trcrcaibcexz4mn/MightyNo3.png "Download Linux version")
 
+**Mighty No. 4**
+
+![Mighty No. 3](http://i.imgur.com/bwkjUcB.png "Mighty No. 4")
+
+[Windows Version](http://www.mediafire.com/download/13xanor8r1md2xb/MightyNo4.ico "Download Windows version")
+
+[Mac Version](http://www.mediafire.com/download/wj9l051sus8ejvj/MightyNo4.hqx "Download Mac version")
+
+[Linux Version](http://www.mediafire.com/download/x7d6vhrvgfkghfc/MightyNo4.png "Download Linux version")
+
 **Installation Instructions:**
 
 [Windows installation](http://www.howtogeek.com/howto/13631/) instructions from How to Geek.

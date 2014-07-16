@@ -14,7 +14,10 @@
    id="svg3771"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="MightyNo4.svg">
+   sodipodi:docname="MightyNo4.svg"
+   inkscape:export-filename="C:\Users\Marco\Documents\GitHub\MightyNo9Icons\Source Images\Mighty No 4\MightyNo4.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <title
      id="title3007">Mighty No. 4</title>
   <defs
@@ -26,7 +29,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="1.0917969"
      inkscape:cx="256"
      inkscape:cy="256"
      inkscape:document-units="px"
@@ -36,7 +39,9 @@
      inkscape:window-height="746"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata3776">
     <rdf:RDF>
@@ -83,13 +88,49 @@
      transform="translate(0,-540.36218)">
     <path
        sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#e4c8ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="OuterCircle"
        sodipodi:cx="-155.24866"
        sodipodi:cy="117.23792"
        sodipodi:rx="59.992844"
        sodipodi:ry="53.123436"
-       d="m -95.255814,117.23792 a 59.992844,53.123436 0 1 1 -119.985686,0 59.992844,53.123436 0 1 1 119.985686,0 z"
-       transform="matrix(4.0862212,0,0,4.6146118,890.38036,255.35469)" />
+       d="m -95.255814,117.23792 c 0,29.33927 -26.859706,53.12344 -59.992846,53.12344 -33.13313,0 -59.99284,-23.78417 -59.99284,-53.12344 0,-29.339261 26.85971,-53.123433 59.99284,-53.123433 33.13314,0 59.992846,23.784172 59.992846,53.123433 z"
+       transform="matrix(4.2671756,0,0,4.8189654,918.47328,231.39668)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="MiddleCircle"
+       sodipodi:cx="-197.5"
+       sodipodi:cy="112.5"
+       sodipodi:rx="66.5"
+       sodipodi:ry="48.5"
+       d="m -131,112.5 c 0,26.78581 -29.77306,48.5 -66.5,48.5 -36.72694,0 -66.5,-21.71419 -66.5,-48.5 0,-26.78581 29.77306,-48.5 66.5,-48.5 36.72694,0 66.5,21.71419 66.5,48.5 z"
+       transform="matrix(3.1729323,0,0,4.3505155,882.65414,306.92919)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#c28446;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="InnerCircle"
+       sodipodi:cx="-192.5"
+       sodipodi:cy="122.5"
+       sodipodi:rx="28.5"
+       sodipodi:ry="29.5"
+       d="m -164,122.5 c 0,16.2924 -12.75988,29.5 -28.5,29.5 -15.74012,0 -28.5,-13.2076 -28.5,-29.5 0,-16.2924 12.75988,-29.5 28.5,-29.5 15.74012,0 28.5,13.2076 28.5,29.5 z"
+       transform="matrix(5.2982456,0,0,5.1186441,1275.9123,169.32828)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="Detail"
+       sodipodi:sides="6"
+       sodipodi:cx="256"
+       sodipodi:cy="256"
+       sodipodi:r1="114.0322"
+       sodipodi:r2="98.754782"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.0943951"
+       inkscape:flatsided="true"
+       inkscape:rounded="2.5587242e-008"
+       inkscape:randomized="0"
+       d="m 256,370.0322 -98.75478,-57.0161 -1e-5,-114.0322 L 256,141.9678 l 98.75478,57.0161 1e-5,114.0322 z"
+       transform="translate(0,540.36218)" />
   </g>
 </svg>

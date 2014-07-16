@@ -18,6 +18,8 @@
    inkscape:export-filename="C:\Users\Marco\Documents\GitHub\MightyNo9Icons\Forum Stuff\Mighty No 38129\Mighty No 38129.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
+  <title
+     id="title3007">Mighty No 38129 Emblem</title>
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="256"
+     inkscape:cx="101.5"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -48,8 +50,39 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title>Mighty No 38129 Emblem</dc:title>
+        <dc:date>7/14/14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Marcello Nicoletti (CupricWolf)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Marcello Nicolettti</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>The emblem for Mighty No 38129</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -60,37 +93,37 @@
     <path
        sodipodi:type="arc"
        style="fill:#afffe4;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path2985"
+       id="OuterCircle"
        sodipodi:cx="91.592133"
        sodipodi:cy="71.899818"
        sodipodi:rx="76.937386"
        sodipodi:ry="57.245079"
-       d="m 168.52952,71.899818 a 76.937386,57.245079 0 1 1 -153.874773,0 76.937386,57.245079 0 1 1 153.874773,0 z"
+       d="m 168.52952,71.899818 c 0,31.615582 -34.44604,57.245082 -76.937387,57.245082 -42.491345,0 -76.937386,-25.6295 -76.937386,-57.245082 0,-31.615584 34.446041,-57.245079 76.937386,-57.245079 42.491347,0 76.937387,25.629495 76.937387,57.245079 z"
        transform="matrix(3.3273811,6.2965165e-8,-4.7137994e-8,4.4720001,-48.761918,474.82613)" />
     <path
        sodipodi:type="arc"
        style="fill:#4e575a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3013"
+       id="MiddleCircle"
        sodipodi:cx="-117.69588"
        sodipodi:cy="119.06977"
        sodipodi:rx="69.152054"
        sodipodi:ry="78.769234"
-       d="m -48.543823,119.06977 a 69.152054,78.769234 0 1 1 -138.304107,0 69.152054,78.769234 0 1 1 138.304107,0 z"
+       d="m -48.543823,119.06977 c 0,43.50305 -30.960429,78.76923 -69.152057,78.76923 -38.19162,0 -69.15205,-35.26618 -69.15205,-78.76923 0,-43.503046 30.96043,-78.769233 69.15205,-78.769233 38.191628,0 69.152057,35.266187 69.152057,78.769233 z"
        transform="matrix(3.051247,0,0,2.6787108,615.11917,477.40862)" />
     <path
        sodipodi:type="arc"
        style="fill:#00c986;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path3015"
+       id="InnerCircle"
        sodipodi:cx="-163.034"
        sodipodi:cy="78.311272"
        sodipodi:rx="38.468693"
        sodipodi:ry="41.674419"
-       d="m -124.5653,78.311272 a 38.468693,41.674419 0 1 1 -76.93739,0 38.468693,41.674419 0 1 1 76.93739,0 z"
+       d="m -124.5653,78.311272 c 0,23.016148 -17.22302,41.674418 -38.4687,41.674418 -21.24567,0 -38.46869,-18.65827 -38.46869,-41.674418 0,-23.016147 17.22302,-41.67442 38.46869,-41.67442 21.24568,0 38.4687,18.658273 38.4687,41.67442 z"
        transform="matrix(3.9252699,6.8246068e-8,0,3.6233258,895.9524,512.61486)" />
     <path
        sodipodi:type="star"
        style="fill:none;stroke:#000000;stroke-width:15;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="path3789"
+       id="DetailHexagon"
        sodipodi:sides="6"
        sodipodi:cx="256"
        sodipodi:cy="256"
@@ -108,17 +141,17 @@
     <path
        style="fill:none;stroke:#000000;stroke-width:15;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 196.99997,694.36211 58.99999,101.99999 -117.99999,10e-6 z"
-       id="path4399"
+       id="DetailTriangle"
        inkscape:connector-curvature="0" />
     <path
        sodipodi:type="arc"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="path4401"
+       id="DetailCircle"
        sodipodi:cx="-89.302322"
        sodipodi:cy="83.348839"
        sodipodi:rx="19.692308"
        sodipodi:ry="20.150269"
-       d="m -69.610014,83.348839 a 19.692308,20.150269 0 1 1 -39.384616,0 19.692308,20.150269 0 1 1 39.384616,0 z"
+       d="m -69.610014,83.348839 c 0,11.128686 -8.816547,20.150271 -19.692308,20.150271 -10.875758,0 -19.692308,-9.021585 -19.692308,-20.150271 0,-11.128686 8.81655,-20.150269 19.692308,-20.150269 10.875761,0 19.692308,9.021583 19.692308,20.150269 z"
        transform="matrix(1.6503906,0,1.2749516e-8,1.6128817,447.25405,687.26511)" />
   </g>
 </svg>
