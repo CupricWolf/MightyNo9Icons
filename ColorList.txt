@@ -32,9 +32,15 @@ Format: Tabs between each section and before each color.
 	#000000	"Black"	Detail
 
 [Mighty No 4]
-	#E4C8AC	"Light COLOR"	Outer Circle
+	#E4C8AC	"Light Brown"	Outer Circle
 	#4B4B4B	"Grey"	Middle Circle
-	#C28446	"COLOR"	Inner Circle
+	#C28446	"Brown"	Inner Circle
+	#000000	"Black"	Detail
+
+[Mighty No 5]
+	#9DDF9E	"Light Green"	Outer Circle
+	#4B4B4B	"Grey"	Middle Circle
+	#339f37	"Green"	Inner Circle
 	#000000	"Black"	Detail
 
 [Mighty No 38129]
