@@ -77,7 +77,7 @@ I'm sorry for the ads.
 
 **Mighty No. 4**
 
-![Mighty No. 3](http://i.imgur.com/bwkjUcB.png "Mighty No. 4")
+![Mighty No. 4](http://i.imgur.com/bwkjUcB.png "Mighty No. 4")
 
 [Windows Version](http://www.mediafire.com/download/13xanor8r1md2xb/MightyNo4.ico "Download Windows version")
 
@@ -87,13 +87,23 @@ I'm sorry for the ads.
 
 **Mighty No. 5**
 
-![Mighty No. 3](http://i.imgur.com/ydJde9j.png "Mighty No. 5")
+![Mighty No. 5](http://i.imgur.com/ydJde9j.png "Mighty No. 5")
 
 [Windows Version](http://www.mediafire.com/download/01z72vgiiwmsr62/MightyNo5.ico "Download Windows version")
 
 [Mac Version](http://www.mediafire.com/download/5neh8b52lrifnzp/MightyNo5.hqx "Download Mac version")
 
 [Linux Version](http://www.mediafire.com/download/tf0gixxclxz9uae/MightyNo5.png "Download Linux version")
+
+**Mighty No. 6**
+
+![Mighty No. 6](http://i.imgur.com/jpfdqoa.png "Mighty No. 6")
+
+[Windows Version](http://www.mediafire.com/download/4l3xgbz5c1y33i2/MightyNo6.ico "Download Windows version")
+
+[Mac Version](http://www.mediafire.com/download/b6bb2v24xe1wbef/MightyNo6.hqx "Download Mac version")
+
+[Linux Version](http://www.mediafire.com/download/aky59oep5vt67o1/MightyNo6.png "Download Linux version")
 
 **Installation Instructions:**
 
