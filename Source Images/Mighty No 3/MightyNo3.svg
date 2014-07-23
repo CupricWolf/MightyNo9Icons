@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0917969"
-     inkscape:cx="256"
+     inkscape:cx="114.49016"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -53,7 +53,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Mighty No. 3 Icon</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
         <dc:date>7/15/14</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -68,7 +68,7 @@
         <dc:description>Icon based on the emblem for Mighty No. 3</dc:description>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -77,8 +77,8 @@
            rdf:resource="http://creativecommons.org/ns#Notice" />
         <cc:requires
            rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>
@@ -95,7 +95,7 @@
        sodipodi:cy="22.486059"
        sodipodi:rx="56.846779"
        sodipodi:ry="86.533432"
-       d="m -53.056999,22.486059 a 56.846779,86.533432 0 1 1 -113.693561,0 56.846779,86.533432 0 1 1 113.693561,0 z"
+       d="m -53.056999,22.486059 c 0,47.791095 -25.45117,86.533431 -56.846781,86.533431 -31.39561,0 -56.84678,-38.742336 -56.84678,-86.533431 0,-47.791095 25.45117,-86.533432 56.84678,-86.533432 31.395611,0 56.846781,38.742337 56.846781,86.533432 z"
        transform="matrix(4.5033334,0,0,2.9583942,750.93336,729.83936)" />
     <path
        sodipodi:type="arc"
@@ -105,7 +105,7 @@
        sodipodi:cy="-0.25265235"
        sodipodi:rx="51.162102"
        sodipodi:ry="62.53146"
-       d="m -229.91364,-0.25265235 a 51.162102,62.53146 0 1 1 -102.32421,0 51.162102,62.53146 0 1 1 102.32421,0 z"
+       d="m -229.91364,-0.25265235 c 0,34.53517135 -22.90606,62.53145935 -51.1621,62.53145935 -28.25605,0 -51.16211,-27.996288 -51.16211,-62.53145935 0,-34.53517165 22.90606,-62.53145965 51.16211,-62.53145965 28.25604,0 51.1621,27.996288 51.1621,62.53145965 z"
        transform="matrix(4.1241464,0,0,3.3743015,1415.1975,797.21451)" />
     <path
        sodipodi:type="arc"
@@ -115,7 +115,7 @@
        sodipodi:cy="-28.676043"
        sodipodi:rx="46.109055"
        sodipodi:ry="41.687637"
-       d="m -141.48532,-28.676043 a 46.109055,41.687637 0 1 1 -92.21811,0 46.109055,41.687637 0 1 1 92.21811,0 z"
+       d="m -141.48532,-28.676043 c 0,23.0234468 -20.64373,41.687638 -46.10906,41.687638 -25.46532,0 -46.10905,-18.6641912 -46.10905,-41.687638 0,-23.023446 20.64373,-41.687637 46.10905,-41.687637 25.46533,0 46.10906,18.664191 46.10906,41.687637 z"
        transform="matrix(3.2748449,0,0,3.622177,870.34248,900.2317)" />
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"

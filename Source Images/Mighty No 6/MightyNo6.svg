@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0917969"
-     inkscape:cx="256"
+     inkscape:cx="114.49016"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -61,7 +61,22 @@
           </cc:Agent>
         </dc:rights>
         <dc:description>Icon based on the emblem for Mighty No. 6</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
       </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
     </rdf:RDF>
   </metadata>
   <g
@@ -77,7 +92,7 @@
        sodipodi:cy="155.70662"
        sodipodi:rx="87.01252"
        sodipodi:ry="91.592133"
-       d="m 209.74597,155.70662 a 87.01252,91.592133 0 1 1 -174.025038,0 87.01252,91.592133 0 1 1 174.025038,0 z"
+       d="m 209.74597,155.70662 c 0,50.58494 -38.95683,91.59213 -87.01252,91.59213 -48.055686,0 -87.012518,-41.00719 -87.012518,-91.59213 0,-50.58494 38.956832,-91.592133 87.012518,-91.592133 48.05569,0 87.01252,41.007193 87.01252,91.592133 z"
        transform="matrix(2.9421053,0,0,2.7949999,-105.09475,361.1622)" />
     <path
        sodipodi:type="arc"
@@ -87,7 +102,7 @@
        sodipodi:cy="104.87299"
        sodipodi:rx="38.010735"
        sodipodi:ry="41.674419"
-       d="m -140.13596,104.87299 a 38.010735,41.674419 0 1 1 -76.02147,0 38.010735,41.674419 0 1 1 76.02147,0 z"
+       d="m -140.13596,104.87299 c 0,23.01615 -17.01799,41.67442 -38.01074,41.67442 -20.99275,0 -38.01073,-18.65827 -38.01073,-41.67442 0,-23.016143 17.01798,-41.674416 38.01073,-41.674416 20.99275,0 38.01074,18.658273 38.01074,41.674416 z"
        transform="matrix(5.5510635,0,0,5.0630579,1244.9036,265.38414)" />
     <path
        sodipodi:type="arc"
@@ -97,7 +112,7 @@
        sodipodi:cy="98.003578"
        sodipodi:rx="46.254025"
        sodipodi:ry="61.366726"
-       d="m -75.105549,98.003578 a 46.254025,61.366726 0 1 1 -92.508051,0 46.254025,61.366726 0 1 1 92.508051,0 z"
+       d="m -75.105549,98.003578 c 0,33.891912 -20.708632,61.366722 -46.254021,61.366722 -25.5454,0 -46.25403,-27.47481 -46.25403,-61.366722 0,-33.891907 20.70863,-61.366726 46.25403,-61.366726 25.545389,0 46.254021,27.474819 46.254021,61.366726 z"
        transform="matrix(3.2645808,0,0,2.4606169,652.18813,555.21293)" />
     <path
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"

@@ -49,6 +49,12 @@ Format: Tabs between each section and before each color.
 	#588BF7	"Blue"	Inner Circle
 	#000000	"Black"	Detail
 
+[Mighty No 7]
+	#FFB9BC	"Light Red"	Outer Circle
+	#4B4B4B	"Grey"	Middle Circle
+	#FF1B26	"Red"	Inner Circle
+	#000000	"Black"	Detail
+
 [Mighty No 38129]
 	#AFFFE4	"Light SeaGreen"	OuterCircle
 	#4E575A	"Medium Grey"	Middle Circle

@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0917969"
-     inkscape:cx="256"
+     inkscape:cx="114.49016"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,7 +52,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title>Mighty No. 2 Icon</dc:title>
         <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/" />
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
         <dc:date>7/14/14</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -67,7 +67,7 @@
         <dc:description>Icon based on the emblem for Mighty No. 2</dc:description>
       </cc:Work>
       <cc:License
-         rdf:about="http://creativecommons.org/licenses/by-nc-nd/3.0/">
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
         <cc:permits
            rdf:resource="http://creativecommons.org/ns#Reproduction" />
         <cc:permits
@@ -76,8 +76,8 @@
            rdf:resource="http://creativecommons.org/ns#Notice" />
         <cc:requires
            rdf:resource="http://creativecommons.org/ns#Attribution" />
-        <cc:prohibits
-           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
       </cc:License>
     </rdf:RDF>
   </metadata>
