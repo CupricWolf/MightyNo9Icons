@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="MightyNo9.svg"
+   inkscape:export-filename="E:\libraries and data\Pictures\MN9Icons\Mighty No 9\MightyNo9-Alt.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title3946">Mighty No. 9 Icon</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0917969"
+     inkscape:cx="114.49016"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Mighty No. 9 Icon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:date>7/12/14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Marcello Nicoletti (CupricWolf)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Comcept Inc.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Icon based on the emblem for Mighty No. 9 (Beck).</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#c0e1da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;stroke-width:5.01341470000000020;stroke-miterlimit:4;stroke-dasharray:none"
+       id="OuterCircle"
+       sodipodi:cx="256"
+       sodipodi:cy="256.45795"
+       sodipodi:rx="256.91592"
+       sodipodi:ry="256.45795"
+       d="M 512.91592,256.45795 C 512.91592,398.09576 397.89075,512.91589 256,512.91589 114.10925,512.91589 -0.91592407,398.09576 -0.91592407,256.45795 -0.91592407,114.82013 114.10925,0 256,0 397.89075,0 512.91592,114.82013 512.91592,256.45795 z"
+       transform="matrix(0.99643493,0,0,0.99821434,0.91265873,540.36218)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#4b4b4b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;stroke-width:0.52369350999999997;stroke-miterlimit:4;stroke-dasharray:none"
+       id="MiddleCircle"
+       sodipodi:cx="237.45259"
+       sodipodi:cy="282.33273"
+       sodipodi:rx="18.547409"
+       sodipodi:ry="26.332739"
+       d="m 256,282.33273 c 0,14.54317 -8.30396,26.33274 -18.54741,26.33274 -10.24345,0 -18.54741,-11.78957 -18.54741,-26.33274 0,-14.54317 8.30396,-26.33274 18.54741,-26.33274 10.24345,0 18.54741,11.78957 18.54741,26.33274 z"
+       transform="matrix(11.376252,0,0,8.0128391,-2445.3205,-1465.9246)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#2262aa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.82740338000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="InnerCircle"
+       sodipodi:cx="-85.638641"
+       sodipodi:cy="125.48122"
+       sodipodi:rx="62.740608"
+       sodipodi:ry="48.543827"
+       d="m -22.898033,125.48122 c 0,26.81001 -28.089927,48.54382 -62.740608,48.54382 -34.650679,0 -62.740609,-21.73381 -62.740609,-48.54382 0,-26.810019 28.08993,-48.543831 62.740609,-48.543831 34.650681,0 62.740608,21.733812 62.740608,48.543831 z"
+       transform="matrix(2.4067347,0,0,3.1105912,462.10949,406.04142)" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#000000;stroke-width:17.32822212;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="DetailTriangle"
+       sodipodi:sides="3"
+       sodipodi:cx="256"
+       sodipodi:cy="256"
+       sodipodi:r1="110.36851"
+       sodipodi:r2="55.184254"
+       sodipodi:arg1="-1.5707963"
+       sodipodi:arg2="-0.52359878"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 256,145.63149 95.58193,165.55277 -191.16386,-10e-6 z"
+       transform="matrix(0.86935818,0,0,0.86193747,33.444306,575.70319)"
+       inkscape:transform-center-y="-23.782691" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="DetailCircle2"
+       sodipodi:cx="-75.563507"
+       sodipodi:cy="197.38104"
+       sodipodi:rx="42.59034"
+       sodipodi:ry="42.59034"
+       d="m -32.973167,197.38104 c 0,23.522 -19.068345,42.59034 -42.59034,42.59034 -23.521995,0 -42.590343,-19.06834 -42.590343,-42.59034 0,-23.52199 19.068348,-42.59034 42.590343,-42.59034 23.521995,0 42.59034,19.06835 42.59034,42.59034 z"
+       transform="matrix(0.76308384,0,0,0.76308384,233.16129,694.2439)" />
+    <path
+       transform="matrix(0.76308384,0,0,0.76308384,394.16129,694.2439)"
+       d="m -32.973167,197.38104 c 0,23.522 -19.068345,42.59034 -42.59034,42.59034 -23.521995,0 -42.590343,-19.06834 -42.590343,-42.59034 0,-23.52199 19.068348,-42.59034 42.590343,-42.59034 23.521995,0 42.59034,19.06835 42.59034,42.59034 z"
+       sodipodi:ry="42.59034"
+       sodipodi:rx="42.59034"
+       sodipodi:cy="197.38104"
+       sodipodi:cx="-75.563507"
+       id="DetailCircle3"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="DetailCircle1"
+       sodipodi:cx="-75.563507"
+       sodipodi:cy="197.38104"
+       sodipodi:rx="42.59034"
+       sodipodi:ry="42.59034"
+       d="m -32.973167,197.38104 c 0,23.522 -19.068345,42.59034 -42.59034,42.59034 -23.521995,0 -42.590343,-19.06834 -42.590343,-42.59034 0,-23.52199 19.068348,-42.59034 42.590343,-42.59034 23.521995,0 42.59034,19.06835 42.59034,42.59034 z"
+       transform="matrix(0.76308384,0,0,0.76308384,313.66129,553.2439)" />
+  </g>
+</svg>

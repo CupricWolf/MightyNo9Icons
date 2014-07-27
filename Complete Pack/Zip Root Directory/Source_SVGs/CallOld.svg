@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg3013"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="CallOld.svg"
+   inkscape:export-filename="E:\libraries and data\Pictures\MN9Icons\Call\Call.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <title
+     id="title4010">Call Old Style Icon</title>
+  <defs
+     id="defs3015" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0917969"
+     inkscape:cx="114.49016"
+     inkscape:cy="256"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3018">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Call Old Style Icon</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/3.0/" />
+        <dc:date>7/12/14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Marcello Nicoletti (CupricWolf)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Comcept Inc.</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Icon based on the emblem for Call's old style</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffe2f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="OuterCircle"
+       sodipodi:cx="56.787121"
+       sodipodi:cy="49.459751"
+       sodipodi:rx="48.543827"
+       sodipodi:ry="34.805008"
+       d="m 105.33095,49.459751 c 0,19.222275 -21.733814,34.805008 -48.543829,34.805008 -26.810016,0 -48.5438272,-15.582733 -48.5438272,-34.805008 0,-19.222275 21.7338112,-34.805008 48.5438272,-34.805008 26.810015,0 48.543829,15.582733 48.543829,34.805008 z"
+       transform="matrix(5.273585,0,0,7.3552634,-43.471711,432.57268)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#3c3849;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="MiddleCircle"
+       sodipodi:cx="-57.703041"
+       sodipodi:cy="76.021469"
+       sodipodi:rx="31.141323"
+       sodipodi:ry="38.468693"
+       d="m -26.561718,76.021469 c 0,21.245672 -13.942445,38.468691 -31.141323,38.468691 -17.198878,0 -31.141323,-17.223019 -31.141323,-38.468691 0,-21.245672 13.942445,-38.468693 31.141323,-38.468693 17.198878,0 31.141323,17.223021 31.141323,38.468693 z"
+       transform="matrix(6.7755631,0,0,5.4849797,646.97059,379.38597)" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#e21c5a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="InnerCircle"
+       sodipodi:cx="-174.483"
+       sodipodi:cy="114.0322"
+       sodipodi:rx="69.152054"
+       sodipodi:ry="58.161003"
+       d="m -105.33095,114.0322 c 0,32.12144 -30.96043,58.16101 -69.15205,58.16101 -38.19163,0 -69.15206,-26.03957 -69.15206,-58.16101 0,-32.121431 30.96043,-58.160999 69.15206,-58.160999 38.19162,0 69.15205,26.039568 69.15205,58.160999 z"
+       transform="matrix(2.1835939,0,0,2.5962413,637.00002,500.30706)" />
+    <path
+       style="fill:#ffe2f8;stroke:none;stroke-width:1.34105837000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 171.25 131 C 153.55941 143.01696 138.57767 158.69295 127.34375 176.9375 L 256 301.34375 L 384.65625 176.9375 C 373.42233 158.69295 358.44059 143.01696 340.75 131 L 256 212.9375 L 171.25 131 z "
+       transform="translate(0,540.36218)"
+       id="Detail" />
+  </g>
+</svg>
