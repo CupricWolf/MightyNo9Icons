@@ -30,7 +30,7 @@ In addition to the provided PNG files, you may be able to utilize the SGV source
 Legal stuffs:
 
 The icons provided are fan art of the game "Mighty No. 9" in development by Comcept Inc.
-I am not claiming ownership of any of the designs used.
+I am not claiming ownership of any of the designs used, just the art style.
 I do not intend to make money from the distribution of these icons.
 All SVG source images are distributed under a Creative Commons: Attribution 3.0 Unported (CC BY 3.0) license.
 	This means that you may make your own icon in this style, just mention me (CupricWolf) where you use it.
