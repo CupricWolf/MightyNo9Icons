@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="MightyNo9.svg"
-   inkscape:export-filename="E:\libraries and data\Pictures\MN9Icons\Mighty No 9\MightyNo9-Alt.png"
+   inkscape:export-filename="C:\Users\Marco\Documents\GitHub\MightyNo9Icons\Source Images\Mighty No 9\MightyNo9.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <title
@@ -30,7 +30,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0917969"
-     inkscape:cx="114.49016"
+     inkscape:cx="256"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -89,7 +89,7 @@
      transform="translate(0,-540.36218)">
     <path
        sodipodi:type="arc"
-       style="fill:#c0e1da;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;stroke-width:5.01341470000000020;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1;stroke-width:5.01341470000000020;stroke-miterlimit:4;stroke-dasharray:none"
        id="OuterCircle"
        sodipodi:cx="256"
        sodipodi:cy="256.45795"
